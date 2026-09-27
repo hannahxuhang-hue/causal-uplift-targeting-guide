@@ -56,7 +56,7 @@ nothing. When it does cost something, that is the explicit, documented price of 
   change the credit decision.
 - **Watch what outreach produces.** If contacted applicants in one group are approved at much lower rates, or their loans
   go bad early, outreach may be drawing people into applications that don't serve them. The companion
-  [monitoring guide](https://github.com/<your-username>/lending-model-monitoring-guide) (chapter 5) covers approval-rate
+  [monitoring guide](https://github.com/hannahxuhang-hue/lending-model-monitoring-guide) (chapter 5) covers approval-rate
   checks by group.
 
 ## 7.5 Record it
