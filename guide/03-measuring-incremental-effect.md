@@ -59,7 +59,7 @@ An extra application is only good if it becomes a sound loan. Once outcomes matu
 
 - approval rate among applicants;
 - early delinquency among funded loans (the early-warning check in the companion
-  [monitoring guide](https://github.com/<your-username>/lending-model-monitoring-guide));
+  [monitoring guide](https://github.com/hannahxuhang-hue/lending-model-monitoring-guide));
 - loan size.
 
 If outreach pulls in applications that are mostly declined, the cost per incremental *funded* loan will show it.
