@@ -83,5 +83,5 @@ between two noisy rates, and estimating them per individual takes much more data
 - Keep a hold-out sample the model never sees, and compare against the segment table on it.
 - Use shallow, regularized models (the example uses gradient boosting with depth 3 and at least 40 prospects per leaf).
 - Document inputs, training data, hold-out results, and the benchmark comparison, as you would for any lending model.
-  The companion [monitoring guide](https://github.com/<your-username>/lending-model-monitoring-guide) covers ongoing
+  The companion [monitoring guide](https://github.com/hannahxuhang-hue/lending-model-monitoring-guide) covers ongoing
   monitoring.
