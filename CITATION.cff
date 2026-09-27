@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or adapt this guide, please cite it as below."
+title: "Causal Uplift Targeting Guide"
+abstract: "A practical guide for community lenders (CDFIs, community development credit unions, community banks, and loan funds) to measure and target the incremental effect of outreach: randomized test design, lift with intervals, segment-level lift with shrinkage, when uplift models are worth it, budget allocation, and target-market reach checks, with a spreadsheet calculator and a worked example on synthetic data."
+authors:
+  - family-names: "Xu"
+    given-names: "Hang"
+    alias: "Hannah Xu"
+version: "1.0.0"
+date-released: "2026-10-01"
+license: ["CC-BY-4.0", "MIT"]
+repository-code: "https://github.com/<your-username>/causal-uplift-targeting-guide"
+keywords:
+  - uplift modeling
+  - causal inference
+  - randomized experiments
+  - CDFI
+  - community lending
+  - outreach targeting
