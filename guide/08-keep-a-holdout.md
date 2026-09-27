@@ -38,7 +38,7 @@ how a segment that was "lost causes" last year gets noticed when a new product m
 
 If you use an uplift model ([chapter 5](05-uplift-models.md)), monitor it like any other model. Data quality and input
 stability checks from the companion
-[Lending Model Monitoring Guide](https://github.com/<your-username>/lending-model-monitoring-guide) apply directly. The
+[Lending Model Monitoring Guide](https://github.com/hannahxuhang-hue/lending-model-monitoring-guide) apply directly. The
 **performance** check is the pooled holdout: does the model's top slice still show more lift than the segment table's?
 
 ## 8.5 Documentation
