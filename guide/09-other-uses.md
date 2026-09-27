@@ -15,7 +15,7 @@ stay current?
   the first missed payment vs the standard schedule; a call vs a text; with vs without a restructuring offer. Everyone gets
   help, and the test tells you which help works best for whom.
 - **Link to monitoring.** Early-delinquency signals from the companion
-  [monitoring guide](https://github.com/<your-username>/lending-model-monitoring-guide) (chapter 3) identify *who is at
+  [monitoring guide](https://github.com/hannahxuhang-hue/lending-model-monitoring-guide) (chapter 3) identify *who is at
   risk*. Uplift tells you *who a call will help*. They are different lists. The highest-risk borrowers may not be the ones
   a call changes.
 
