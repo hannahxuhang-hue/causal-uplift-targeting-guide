@@ -81,7 +81,7 @@ with the "Sample size" tab.
 **Python:**
 
 ```bash
-git clone https://github.com/<your-username>/causal-uplift-targeting-guide.git
+git clone https://github.com/hannahxuhang-hue/causal-uplift-targeting-guide.git
 cd causal-uplift-targeting-guide
 pip install -r requirements.txt
 cd examples && jupyter notebook walkthrough.ipynb
@@ -96,7 +96,7 @@ is never observable.
 
 ## Companion repository
 
-[**Lending Model Monitoring Guide**](https://github.com/<your-username>/lending-model-monitoring-guide): monitoring lending
+[**Lending Model Monitoring Guide**](https://github.com/hannahxuhang-hue/lending-model-monitoring-guide): monitoring lending
 models at small institutions. Uplift targeting models, and the credit models that decide the applications outreach
 produces, both belong in its monitoring cycle.
 
@@ -127,7 +127,7 @@ If you work at a lender or network and try this, or find it doesn't fit how you 
 ## How to cite
 
 See [`CITATION.cff`](CITATION.cff), or: Xu, H. (2026). *Causal Uplift Targeting Guide* (Version 1.0).
-https://github.com/<your-username>/causal-uplift-targeting-guide
+https://github.com/hannahxuhang-hue/causal-uplift-targeting-guide
 
 ## License
 
