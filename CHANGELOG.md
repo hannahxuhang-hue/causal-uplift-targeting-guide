@@ -2,6 +2,7 @@
 
 ## 1.0.0 (2026-10-01)
 First public release.
+- Contributing guide and a feedback form for practitioners (`CONTRIBUTING.md`, `.github/ISSUE_TEMPLATE/`)
 - Guide chapters 1–9
 - One-page checklist; test-plan and campaign-results templates
 - Spreadsheet calculator: sample size, test result, segment lift with shrinkage, budget allocation with target-market floor
