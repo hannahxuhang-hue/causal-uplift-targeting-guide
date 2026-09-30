@@ -122,7 +122,7 @@ General methodology only. It is **not legal, regulatory, or compliance advice**.
 
 ## Feedback and use
 
-If you work at a lender or network and try this, or find it doesn't fit how you work, please open an issue or get in touch.
+If you work at a lender or network and use or adapt this material, or find it doesn't fit how you work, please [share how you used it](https://github.com/hannahxuhang-hue/causal-uplift-targeting-guide/issues/new?template=feedback.yml) or open an issue. See [CONTRIBUTING.md](CONTRIBUTING.md) for other ways to help. Changes made in response to feedback are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to cite
 
