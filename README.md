@@ -71,6 +71,7 @@ flowchart TB
 | [`templates/`](templates/) | Test plan, campaign results |
 | [`spreadsheet/uplift-calculator.xlsx`](spreadsheet/uplift-calculator.xlsx) | Sample size, test result, segment lift, next-campaign allocation (no code needed) |
 | [`examples/walkthrough.ipynb`](examples/walkthrough.ipynb) | Worked example on synthetic data |
+| [`examples/payment_assistance_walkthrough.ipynb`](examples/payment_assistance_walkthrough.ipynb) | Second worked example: which borrowers a proactive payment-assistance call helps (chapter 9.1) |
 | [`examples/uplift_tools.py`](examples/uplift_tools.py) | All methods as plain Python functions |
 
 ## Quick start
@@ -126,7 +127,7 @@ If you work at a lender or network and use or adapt this material, or find it do
 
 ## How to cite
 
-See [`CITATION.cff`](CITATION.cff), or: Xu, H. (2026). *Causal Uplift Targeting Guide* (Version 1.0).
+See [`CITATION.cff`](CITATION.cff), or: Xu, H. (2026). *Causal Uplift Targeting Guide* (Version 1.1).
 https://github.com/hannahxuhang-hue/causal-uplift-targeting-guide
 
 ## License
