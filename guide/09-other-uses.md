@@ -19,6 +19,14 @@ stay current?
   risk*. Uplift tells you *who a call will help*. They are different lists. The highest-risk borrowers may not be the ones
   a call changes.
 
+**Worked example.** [`examples/payment_assistance_walkthrough.ipynb`](../examples/payment_assistance_walkthrough.ipynb)
+follows 800 small-business borrowers who missed a payment (synthetic data). Everyone gets the standard reminder and
+hardship notice; which borrowers also get a proactive call is randomized. The overall effect of the call is not
+distinguishable from zero, but the segment table shows a large effect for seasonal businesses on their first missed
+payment and none for repeat-late borrowers, the highest-risk group. Directing next quarter's 120 calls by measured lift
+cures about twice as many loans as calling at random, and several times more than calling the highest-risk borrowers
+first.
+
 ## 9.2 Technical-assistance and program referrals
 
 **Question:** which clients, when referred to a TA program or financial-coaching session, go on to enrol, complete it, or
