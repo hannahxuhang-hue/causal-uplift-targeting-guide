@@ -1,5 +1,7 @@
 # Causal Uplift Targeting Guide
 
+[![Worked examples](https://github.com/hannahxuhang-hue/causal-uplift-targeting-guide/actions/workflows/notebooks.yml/badge.svg)](https://github.com/hannahxuhang-hue/causal-uplift-targeting-guide/actions/workflows/notebooks.yml)
+
 **Reach the businesses your outreach actually helps. A practical guide for community lenders (CDFIs, community
 development credit unions, community banks, and nonprofit loan funds) to measure and target the incremental effect of
 outreach with a limited budget.**
